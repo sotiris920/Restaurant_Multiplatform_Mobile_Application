@@ -70,7 +70,7 @@ If you are using OSX or Linux, use sudo at the front of the command. This will i
   
 #### Configuring Server Folder
 
-In the project there is folder named json-server, move to this folder. There should be a db.json file there.
+In the project there is a folder named json-server, move to this folder. There should be a db.json file there.
 Move to this folder in your terminal window, and type the following at the command prompt to start the server:
 	
 		json-server --watch db.json
@@ -94,7 +94,7 @@ You can shut down the server by typing ctrl-C in the terminal window.
 
 #### Ionic server
 
-You can start the ionic server by typing the following at the prompt in the Ionic folder:
+You can start the ionic server by typing the following at the prompt in the Ionic folder(root folder of the project):
 		
 		ionic serve --lab
 
