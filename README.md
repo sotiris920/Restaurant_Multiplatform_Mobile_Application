@@ -33,22 +33,22 @@ conFusion is a restaurant application. This application provides menu presentati
 
 Make sure that you have installed node, gulp and bower on your computer.
 	
-		* installing node https://docs.npmjs.com/getting-started/installing-node
-		* npm install gulp-cli -g
-		* npm install bower -g
+		To install node go to, https://docs.npmjs.com/getting-started/installing-node
+		npm install gulp-cli -g
+		npm install bower -g
 	
 Setting up the Ionic Framework
 
 To install the Ionic framework, at the prompt type:
 	
-		    npm install cordova ionic -g
+		npm install cordova ionic -g
 
 If you are installing on OSX or Linux, make sure to precede with sudo.
 	
 Move to the conFusion folder and examine the contents.
 To see the resulting project in your browser, type the following at the command prompt:
 	
-		    ionic serve
+		ionic serve
 
 Now you have installed Cordova and Ionic on your computer.
 
@@ -110,11 +110,11 @@ Note: For iOS development and deployment you need a Mac running OS X.
 
 - Preparing your Computer for Android Development: Cordova Guide
 
-      http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
+           http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
 
 - Preparing your Computer for iOS Development: Cordova Guide
 
-      http://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html
+           http://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html
 	
 #### Resources
   [Android studio](https://developer.android.com/studio/index.html) , 
@@ -235,11 +235,11 @@ Then, build the app and deploy it to the emulator or a device.
 
 First, add the Cordova plugin for the local notifications by typing the following at the command prompt:
 	
-		     ionic plugin add de.appplant.cordova.plugin.local-notification
+		ionic plugin add de.appplant.cordova.plugin.local-notification
 
 Then, install the Cordova Toast plugin by typing the following at the prompt:
 
-		     ionic plugin add https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git
+		ionic plugin add https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git
 			 
 Save the changes, build and deploy the application to the emulator to see the changes.
 	
@@ -248,10 +248,10 @@ Save the changes, build and deploy the application to the emulator to see the ch
 
 First, add the Cordova camera plugin by typing the following at the command prompt:
 
-		     ionic plugin add cordova-plugin-camera
+		 ionic plugin add cordova-plugin-camera
 	
 Or use the following command at the command prompt, if your Cordova version is below 5.0:
 	
-		     ionic plugin add org.apache.cordova.camera
+		 ionic plugin add org.apache.cordova.camera
 			 
 Save the changes, build and deploy the application and see the changes.
