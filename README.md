@@ -169,7 +169,7 @@ This will start your default iOS emulator and deploy the app to the emulator, an
 	
   
 
-## Step 4 Part 2 - Building and Deploying to Android Emulator
+## Step 4 Part 2 - Building and Deploying to Android Emulator and Android Device
 
 #### - Updating localhost to the IP address of your computer
 
