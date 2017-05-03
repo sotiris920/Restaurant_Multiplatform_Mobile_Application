@@ -1,4 +1,4 @@
-# Restaurant Hybrid Mobile Application
+# Restaurant Multiplatform Mobile Application
 
 by The Hong Kong University of Science and Technology. Exercise provided by Coursera.
 
